@@ -1,4 +1,4 @@
-# PIEDS_Website_New_Redisgn
+Website hosted at - http://pieds-bitspilani.org/
 This is new website design for the PIEDS
 Suggestions :
 1.) Please keep files in rights folders, like all logos and images in images folder, css files in bootstrap/css etc.
@@ -6,4 +6,3 @@ Suggestions :
 3.) Please name all files correctly and try to use camelCase for consistency.
 4.) We all got this, we all will make this website one of the best.
 
-OP bois
